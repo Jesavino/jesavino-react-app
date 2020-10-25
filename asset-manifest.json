@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jesavino-react-app/static/css/main.f1ecf67f.chunk.css",
+    "main.js": "/jesavino-react-app/static/js/main.543011be.chunk.js",
+    "main.js.map": "/jesavino-react-app/static/js/main.543011be.chunk.js.map",
+    "runtime-main.js": "/jesavino-react-app/static/js/runtime-main.82db1865.js",
+    "runtime-main.js.map": "/jesavino-react-app/static/js/runtime-main.82db1865.js.map",
+    "static/js/2.83335aa5.chunk.js": "/jesavino-react-app/static/js/2.83335aa5.chunk.js",
+    "static/js/2.83335aa5.chunk.js.map": "/jesavino-react-app/static/js/2.83335aa5.chunk.js.map",
+    "static/js/3.f4399af0.chunk.js": "/jesavino-react-app/static/js/3.f4399af0.chunk.js",
+    "static/js/3.f4399af0.chunk.js.map": "/jesavino-react-app/static/js/3.f4399af0.chunk.js.map",
+    "index.html": "/jesavino-react-app/index.html",
+    "static/css/main.f1ecf67f.chunk.css.map": "/jesavino-react-app/static/css/main.f1ecf67f.chunk.css.map",
+    "static/js/2.83335aa5.chunk.js.LICENSE.txt": "/jesavino-react-app/static/js/2.83335aa5.chunk.js.LICENSE.txt",
+    "static/media/john_savino.ad7e4ce6.pdf": "/jesavino-react-app/static/media/john_savino.ad7e4ce6.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82db1865.js",
+    "static/js/2.83335aa5.chunk.js",
+    "static/css/main.f1ecf67f.chunk.css",
+    "static/js/main.543011be.chunk.js"
+  ]
+}
