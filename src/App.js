@@ -31,7 +31,7 @@ function App() {
 
       <div className="PDF-Document">
         <Document file={jsavino_pdf} onLoadSuccess={onDocumentLoadSuccess}>
-          <Page pageNumber={pageNumber} />
+          <Page className="PDF-Page" pageNumber={pageNumber} />
           <div className="Page-Controls">
             <button type="button" onClick={pageLeft}>
               {" "}
